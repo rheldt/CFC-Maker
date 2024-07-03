@@ -1,0 +1,17 @@
+# Project files
+WEB-INF/*
+.project
+settings.xml
+
+# Logs
+logs
+*.log
+
+# NPM modules directory
+node_modules/
+
+# NPM cache directory
+.npm
+
+# Output of 'npm pack'
+*.tgz
